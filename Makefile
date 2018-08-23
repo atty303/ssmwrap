@@ -1,5 +1,5 @@
 VERSION=${shell cat ./VERSION}
-PROJECT_USERNAME=handlename
+PROJECT_USERNAME=atty303
 PROJECT_REPONAME=ssmwrap
 DIST_DIR=dist
 
